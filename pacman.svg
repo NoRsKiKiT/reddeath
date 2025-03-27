@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#000000"/>
+  
+  <!-- Лабиринт -->
+  <rect x="30" y="40" width="140" height="120" fill="#000" stroke="#2450a4" stroke-width="2"/>
+  <rect x="40" y="50" width="120" height="20" fill="#000" stroke="#2450a4" stroke-width="2"/>
+  <rect x="40" y="90" width="40" height="20" fill="#000" stroke="#2450a4" stroke-width="2"/>
+  <rect x="100" y="90" width="60" height="20" fill="#000" stroke="#2450a4" stroke-width="2"/>
+  <rect x="40" y="130" width="120" height="20" fill="#000" stroke="#2450a4" stroke-width="2"/>
+  
+  <!-- Точки -->
+  <circle cx="35" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="50" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="65" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="80" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="95" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="110" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="125" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="140" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="155" cy="45" r="2" fill="#ffffff"/>
+  
+  <circle cx="35" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="50" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="65" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="95" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="110" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="125" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="140" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="155" cy="85" r="2" fill="#ffffff"/>
+  
+  <circle cx="35" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="35" cy="100" r="2" fill="#ffffff"/>
+  <circle cx="35" cy="115" r="2" fill="#ffffff"/>
+  <circle cx="95" cy="100" r="2" fill="#ffffff"/>
+  <circle cx="95" cy="115" r="2" fill="#ffffff"/>
+  <circle cx="155" cy="85" r="2" fill="#ffffff"/>
+  <circle cx="155" cy="100" r="2" fill="#ffffff"/>
+  <circle cx="155" cy="115" r="2" fill="#ffffff"/>
+  
+  <!-- Большие точки -->
+  <circle cx="35" cy="155" r="5" fill="#ffffff"/>
+  <circle cx="155" cy="155" r="5" fill="#ffffff"/>
+  
+  <!-- Пакман -->
+  <path d="M70,115 L85,115 A15,15 0 1,0 85,145 L70,145 Z" fill="#fdff00"/>
+  
+  <!-- Призраки -->
+  <path d="M100,115 Q100,130 110,130 Q120,130 120,115 Q120,100 110,100 Q100,100 100,115 Z" fill="#ff0000"/>
+  <circle cx="105" cy="110" r="3" fill="#ffffff"/>
+  <circle cx="115" cy="110" r="3" fill="#ffffff"/>
+  <circle cx="105" cy="110" r="1" fill="#000000"/>
+  <circle cx="115" cy="110" r="1" fill="#000000"/>
+  
+  <path d="M125,115 Q125,130 135,130 Q145,130 145,115 Q145,100 135,100 Q125,100 125,115 Z" fill="#00ffff"/>
+  <circle cx="130" cy="110" r="3" fill="#ffffff"/>
+  <circle cx="140" cy="110" r="3" fill="#ffffff"/>
+  <circle cx="130" cy="110" r="1" fill="#000000"/>
+  <circle cx="140" cy="110" r="1" fill="#000000"/>
+</svg>

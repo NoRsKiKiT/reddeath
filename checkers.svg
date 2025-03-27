@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#1a1a1a"/>
+  
+  <!-- Шахматная доска -->
+  <rect x="30" y="30" width="140" height="140" fill="#f4dcb5"/>
+  
+  <!-- Черные клетки -->
+  <rect x="30" y="30" width="35" height="35" fill="#826651"/>
+  <rect x="100" y="30" width="35" height="35" fill="#826651"/>
+  <rect x="65" y="65" width="35" height="35" fill="#826651"/>
+  <rect x="135" y="65" width="35" height="35" fill="#826651"/>
+  <rect x="30" y="100" width="35" height="35" fill="#826651"/>
+  <rect x="100" y="100" width="35" height="35" fill="#826651"/>
+  <rect x="65" y="135" width="35" height="35" fill="#826651"/>
+  <rect x="135" y="135" width="35" height="35" fill="#826651"/>
+  
+  <!-- Белые шашки -->
+  <circle cx="47.5" cy="135" r="12" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="117.5" cy="135" r="12" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="82.5" cy="117.5" r="12" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="152.5" cy="117.5" r="12" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="47.5" cy="82.5" r="12" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  
+  <!-- Черные шашки -->
+  <circle cx="82.5" cy="47.5" r="12" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+  <circle cx="152.5" cy="47.5" r="12" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+  <circle cx="47.5" cy="47.5" r="12" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+  <circle cx="117.5" cy="47.5" r="12" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+  <circle cx="82.5" cy="82.5" r="12" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+  
+  <!-- Дамка -->
+  <circle cx="117.5" cy="82.5" r="12" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+  <text x="113" y="87" font-size="14" font-weight="bold" fill="#ffffff">K</text>
+</svg>

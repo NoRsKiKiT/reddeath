@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#0d4d26"/>
+  
+  <!-- Козырная карта -->
+  <rect x="40" y="90" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <text x="45" y="110" font-size="16" fill="#ff0000">6</text>
+  <text x="45" y="130" font-size="16" fill="#ff0000">♥</text>
+  
+  <!-- Стопка карт -->
+  <rect x="45" y="100" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <rect x="50" y="110" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <rect x="55" y="120" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  
+  <!-- Карты игрока 1 -->
+  <rect x="30" y="30" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <text x="35" y="50" font-size="16" fill="#000000">7</text>
+  <text x="35" y="70" font-size="16" fill="#000000">♠</text>
+  
+  <rect x="70" y="30" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <text x="75" y="50" font-size="16" fill="#ff0000">10</text>
+  <text x="75" y="70" font-size="16" fill="#ff0000">♦</text>
+  
+  <rect x="110" y="30" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <text x="115" y="50" font-size="16" fill="#000000">Q</text>
+  <text x="115" y="70" font-size="16" fill="#000000">♣</text>
+  
+  <rect x="150" y="30" width="35" height="50" rx="3" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <text x="155" y="50" font-size="16" fill="#ff0000">K</text>
+  <text x="155" y="70" font-size="16" fill="#ff0000">♥</text>
+  
+  <!-- Битые карты -->
+  <rect x="115" y="90" width="35" height="50" rx="3" transform="rotate(15 115 90)" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <rect x="125" y="95" width="35" height="50" rx="3" transform="rotate(-10 125 95)" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  <rect x="135" y="100" width="35" height="50" rx="3" transform="rotate(5 135 100)" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  
+  <!-- Карты игрока 2 (рубашкой вверх) -->
+  <rect x="30" y="150" width="35" height="50" rx="3" transform="rotate(180 30 150)" fill="#1e40af" stroke="#000" stroke-width="1"/>
+  <rect x="70" y="150" width="35" height="50" rx="3" transform="rotate(180 70 150)" fill="#1e40af" stroke="#000" stroke-width="1"/>
+  <rect x="110" y="150" width="35" height="50" rx="3" transform="rotate(180 110 150)" fill="#1e40af" stroke="#000" stroke-width="1"/>
+  <rect x="150" y="150" width="35" height="50" rx="3" transform="rotate(180 150 150)" fill="#1e40af" stroke="#000" stroke-width="1"/>
+  <rect x="170" y="150" width="35" height="50" rx="3" transform="rotate(180 170 150)" fill="#1e40af" stroke="#000" stroke-width="1"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#faf8ef"/>
+  
+  <!-- Фон игрового поля -->
+  <rect x="25" y="25" width="150" height="150" rx="5" fill="#bbada0"/>
+  
+  <!-- Пустые ячейки -->
+  <rect x="30" y="30" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="67.5" y="30" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="105" y="30" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="142.5" y="30" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  
+  <rect x="30" y="67.5" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="67.5" y="67.5" width="32.5" height="32.5" rx="3" fill="#eee4da"/>
+  <text x="83.75" y="90" font-size="14" font-weight="bold" fill="#776e65" text-anchor="middle">2</text>
+  <rect x="105" y="67.5" width="32.5" height="32.5" rx="3" fill="#eee4da"/>
+  <text x="121.25" y="90" font-size="14" font-weight="bold" fill="#776e65" text-anchor="middle">2</text>
+  <rect x="142.5" y="67.5" width="32.5" height="32.5" rx="3" fill="#ede0c8"/>
+  <text x="158.75" y="90" font-size="14" font-weight="bold" fill="#776e65" text-anchor="middle">4</text>
+  
+  <rect x="30" y="105" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="67.5" y="105" width="32.5" height="32.5" rx="3" fill="#f2b179"/>
+  <text x="83.75" y="127.5" font-size="14" font-weight="bold" fill="#f9f6f2" text-anchor="middle">8</text>
+  <rect x="105" y="105" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="142.5" y="105" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  
+  <rect x="30" y="142.5" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="67.5" y="142.5" width="32.5" height="32.5" rx="3" fill="#cdc1b4"/>
+  <rect x="105" y="142.5" width="32.5" height="32.5" rx="3" fill="#f67c5f"/>
+  <text x="121.25" y="165" font-size="14" font-weight="bold" fill="#f9f6f2" text-anchor="middle">16</text>
+  <rect x="142.5" y="142.5" width="32.5" height="32.5" rx="3" fill="#edcf72"/>
+  <text x="158.75" y="165" font-size="14" font-weight="bold" fill="#f9f6f2" text-anchor="middle">32</text>
+  
+  <!-- Счет -->
+  <rect x="25" y="10" width="70" height="20" rx="3" fill="#bbada0"/>
+  <text x="35" y="25" font-size="12" font-weight="bold" fill="#eee4da">СЧЕТ: 204</text>
+</svg>
